@@ -1,0 +1,59 @@
+*{
+    /* font-size: small; */
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+.education, .projects{
+    width: 100%;
+}
+
+.subheadings, .project-title{
+    font-weight: bold;
+}
+
+.program, .rightcol-date{
+    font-size: 90%;
+    font-style: italic;
+}
+
+.heading{
+    margin: auto;
+    max-width: fit-content;
+    padding-bottom: 0.8em;
+}
+
+h3,p{
+    margin-top: 0.4em;
+    margin-bottom: 0;
+}
+
+
+hr{
+   margin: 0;
+}
+
+ul, td{
+    margin: 0.2em;
+}
+
+h1{
+    font-size: 200%;
+    margin: 0
+}
+
+.section-headings{
+    font-variant: small-caps;
+    font-weight: normal;
+    padding-left: 0;
+}
+
+.project-tech{
+    font-style: italic;
+    font-size: 90%;
+    font-weight: normal;
+}
+
+.main{
+    margin: 0 auto;
+}
